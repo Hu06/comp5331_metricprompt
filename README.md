@@ -35,4 +35,3 @@ Code:
 - `model.py` contains the model definition, as well as the implementation of the optimization and inference processes.
 - `dataloader.py` contains the code for data processing.
 
-Please customize this information based on your own README file.

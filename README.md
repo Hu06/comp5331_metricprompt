@@ -1,5 +1,6 @@
 # comp5331_metricprompt
 We conducted experiments on three text classification datasets: AG's News, DBPedia, and Yahoo Answers Topics. To obtain the full datasets, please run the following commands:
+```
 cd ./data
 bash download_text_classification.sh
 ```
